@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513155865360",
+    "firebase_url": "https://school-dd8be.firebaseio.com",
+    "project_id": "school-dd8be",
+    "storage_bucket": "school-dd8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513155865360:android:983b5b4238f2e3efd0a395",
+        "android_client_info": {
+          "package_name": "com.gaurav.school_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513155865360-au29k77gfk29tapu6n2nbnebig7gmk0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.school_admin",
+            "certificate_hash": "3167dbc1ec86d6de82f653bf98af52515affbc86"
+          }
+        },
+        {
+          "client_id": "513155865360-jpoi7mjucvu29gn033gqn6uqseen9bfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZSY3IERHu-HbM8reRPv-PCbagF0NqXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513155865360-jpoi7mjucvu29gn033gqn6uqseen9bfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
